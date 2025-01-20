@@ -1,0 +1,4 @@
+This is data file 
+to be used in read write 
+operation
+127648549Hey Thursday! Happy Friday !
